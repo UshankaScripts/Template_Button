@@ -1,0 +1,12 @@
+button{
+border-radius: 10px;
+width: 130px;
+height: 50px;
+font-family: system-ui;
+background-color: #3399ff;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center
+}
+
